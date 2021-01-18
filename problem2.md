@@ -4,8 +4,7 @@ https://programmers.co.kr/learn/courses/30/lessons/68644
    
 ## @solution.js   
 ### First
-<pre>
-<code>
+```
 function solution(numbers) {
     var answer = [];
     console.log(numbers);
@@ -22,11 +21,9 @@ function solution(numbers) {
     });
     return answer;
 }
-</code>
-</pre>
+```
 ### Second   
-<pre>
-<code>
+```
 function solution(numbers) {
     var tmp = [];
     console.log(numbers);
@@ -41,5 +38,4 @@ function solution(numbers) {
     });
     return answer;
 }
-</code>
-</pre>
+```
