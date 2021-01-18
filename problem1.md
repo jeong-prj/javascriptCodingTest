@@ -15,7 +15,7 @@ function solution(board, moves) {
                 board[j][pick] = 0;
                 let basketLen = basket.length;
                 if(basketLen>1){
-                    if(basket[basketLen-2]==basket[basketLen-1]){
+                    if(basket[basketLen-2]===basket[basketLen-1]){
                         answer += 2;
                         basket.pop();
                         basket.pop();
