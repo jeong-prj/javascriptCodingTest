@@ -24,7 +24,7 @@ function solution(numbers) {
 }
 </code>
 </pre>
-###Second   
+### Second   
 <pre>
 <code>
 function solution(numbers) {
