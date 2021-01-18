@@ -1,8 +1,8 @@
 # 두 개 뽑아서 더하기   
-## @problem link   
+## problem link   
 https://programmers.co.kr/learn/courses/30/lessons/68644     
    
-## @solution.js   
+## solution.js   
 ### First
 ```
 function solution(numbers) {
