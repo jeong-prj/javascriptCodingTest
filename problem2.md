@@ -19,7 +19,6 @@ function solution(numbers) {
     answer.sort(function(a,b){
         return a-b;
     });
-    
     return answer;
 }
 </code></pre>
@@ -38,7 +37,6 @@ function solution(numbers) {
     answer.sort(function(a,b){
         return a-b;//배열을 오름차순으로 정렬
     });
-    
     return answer;
 }
 </code></pre>
