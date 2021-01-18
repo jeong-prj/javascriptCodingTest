@@ -3,7 +3,6 @@
 https://programmers.co.kr/learn/courses/30/lessons/68644     
    
 @solution.js   
-First   
 <code><pre>
 function solution(numbers) {
     var answer = [];
