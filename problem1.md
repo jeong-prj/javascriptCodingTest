@@ -3,6 +3,7 @@
 https://programmers.co.kr/learn/courses/30/lessons/64061
 
 @solution.js
+
 function solution(board, moves) {
     var answer = 0;
     let basket = [];
@@ -18,12 +19,10 @@ function solution(board, moves) {
                         answer += 2;
                         basket.pop();
                         basket.pop();
-                        
                     }
                 }
                 break;
             }
-
         }
     }
     return answer;
