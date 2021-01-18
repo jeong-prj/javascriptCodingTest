@@ -1,9 +1,10 @@
-두 개 뽑아서 더하기   
-@problem link   
+#두 개 뽑아서 더하기   
+##@problem link   
 https://programmers.co.kr/learn/courses/30/lessons/68644     
    
-@solution.js   
-<code><pre>
+##@solution.js   
+###First
+<pre><code>
 function solution(numbers) {
     var answer = [];
     console.log(numbers);
@@ -21,8 +22,8 @@ function solution(numbers) {
     return answer;
 }
 </code></pre>
-Second   
-<code><pre>
+###Second   
+<pre><code>
 function solution(numbers) {
     var tmp = [];
     console.log(numbers);
