@@ -1,7 +1,7 @@
 # 모의고사   
-## Problem link   
+## problem link   
 https://programmers.co.kr/learn/courses/30/lessons/42840   
-## Solution.js   
+## solution.js   
 ### First
 ```
 function solution(answers) {
